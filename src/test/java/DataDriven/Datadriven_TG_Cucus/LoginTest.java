@@ -10,5 +10,11 @@ public class LoginTest {
 		System.out.println("Enter username");
 		System.out.println("Enter password");
 		System.out.println("Login succcess");	}
+	
+	public void  AccCreation()
+	{
+		System.out.println("Acc Details");
+		System.out.println("Bank Details");
+	}
 
 }
