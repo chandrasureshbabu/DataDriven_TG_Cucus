@@ -6,11 +6,7 @@ public class Issues {
 	
 	
 	
-	@Test
-	public void IssueGrid1()
-	{
-		System.out.println("Handle grids");
-	}
+	
 	@Test
 	public void Ifix()
 	{
