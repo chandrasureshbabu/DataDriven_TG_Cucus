@@ -22,4 +22,9 @@ public class LoginTest {
 		System.out.println("Client Details");
 	}
 
+	
+	public void Migrtiondata()
+	{
+		System.out.println("Migrated Details");
+	}
 }
