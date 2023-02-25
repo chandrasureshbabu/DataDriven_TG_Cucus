@@ -9,7 +9,7 @@ public class Issues {
 	@Test
 	public void IssueGrid()
 	{
-		System.out.println("Handle grids");
+		
 	}
 
 }
