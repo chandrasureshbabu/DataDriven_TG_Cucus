@@ -16,5 +16,10 @@ public class LoginTest {
 		System.out.println("Acc Details");
 		System.out.println("Bank Details");
 	}
+	
+	public void ClientDetails()
+	{
+		System.out.println("Client Details");
+	}
 
 }
