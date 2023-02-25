@@ -7,9 +7,14 @@ public class Issues {
 	
 	
 	@Test
-	public void IssueGrid()
+	public void IssueGrid1()
 	{
 		System.out.println("Handle grids");
+	}
+	@Test
+	public void Ifix()
+	{
+		System.out.println("grid Fix");
 	}
 
 }
